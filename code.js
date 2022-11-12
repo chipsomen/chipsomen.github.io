@@ -34,8 +34,7 @@ function changeBackground(){
     "url(art/mali.jpg)",
     "url(art/dance.jpg)",
     "url(art/islam.jpg)",
-    "url(art/musa.jpg)",
-    "url(art/imposter.jpg)"
+    "url(art/musa.jpg)"
   ];
   body = document.body.style;
   current++
